@@ -1,8 +1,6 @@
 # Santiago Guadarrama
 
 📍 New York, NY 10001  
-📞 (917) 405 - 7498  
-✉️ santiagogsv@icloud.com  
 
 ## Connect with me
 - [GitHub @santiagogsv](https://github.com/santiagogsv)
