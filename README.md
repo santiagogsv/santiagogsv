@@ -39,3 +39,4 @@ I'm an adaptable Data Analyst fluent in English, Spanish, and Italian, with a ro
 
 ## Portfolio Projects
 
+- 
