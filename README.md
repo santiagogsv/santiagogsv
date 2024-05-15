@@ -38,5 +38,3 @@ I'm an adaptable Data Analyst fluent in English, Spanish, and Italian, with a ro
 - Applied advanced statistical techniques and Python programming to model and analyze economic data.
 
 ## Portfolio Projects
-
--
