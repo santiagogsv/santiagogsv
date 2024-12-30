@@ -3,7 +3,6 @@
 📍 New York, NY 10001  
 
 ## Connect with me
-- [GitHub @santiagogsv](https://github.com/santiagogsv)
 - [LinkedIn @santiagogsv](https://www.linkedin.com/in/santiagogsv)
 
 ## About Me
