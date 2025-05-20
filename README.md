@@ -6,7 +6,7 @@
 - [LinkedIn @santiagogsv](https://www.linkedin.com/in/santiagogsv)
 
 ## About Me
-I'm an adaptable Data Analyst fluent in English, Spanish, and Italian, with a robust background in economics. Based in New York City, I specialize in Python and Rust for data analysis and networking, leveraging modern technologies to improve web performance and data processing. My toolkit includes extensive use of Python for data-driven insights and Rust for high-performance networking, with a keen interest in Cloudflare's innovative use of Rust to enhance web infrastructure.
+Data Analyst fluent in English, Spanish, and Italian, with a robust background in economics. Based in New York City, I specialize in Python and Rust for data analysis. My toolkit includes extensive use of Python for data-driven insights and Rust for high-performance networking, with a keen interest in Cloudflare's innovative use of Rust to enhance web infrastructure.
 
 ## Python and Data Analysis Skills
 - **Python Libraries:** 
